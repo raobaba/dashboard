@@ -32,4 +32,4 @@ This React.js application provides a comprehensive dashboard for ecommerce analy
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-dashboard.git
+   git clone https://github.com/yourusername/dashboard.git
